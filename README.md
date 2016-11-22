@@ -5,7 +5,7 @@
 
 <p>Note: My initial purpose for writing this socket was to use it in a VR Marionette project established by the Intersections Digital Studio of Emily Carr University of Art + Design, where meanwhile I was doing a Globalink&copy; Research internship funded under Mitacs&copy; and China Scholarship Council. Later the socket was rewritten via Max Cycling-74 (<a href="https://github.com/gl14916/Speech-to-Text_via_Max">source code on GitHub</a>) in a much more efficient way.</p>
 
-<p>Languange preference for STT conversion in the socket: English (default).</p>
+<p><b>Note</b>: Languange preference for STT conversion in the socket: English (default).</p>
 
 <p>Implementations: </p>
 <ul>
