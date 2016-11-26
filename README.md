@@ -1,5 +1,5 @@
 # Speech-To-Text
-###Implementing Communication with Bluemix STT Engine
+##Implementing Communication with Bluemix STT Engine
 
 This socket establishes communication with IBM Bluemix Watson's Speech-to-text engine via WebSocket-Sharp (WebSocket realized in C#) in Unity, which generally provides the user interface, as well as further possibilities for integrating this socket into other applications.
 
@@ -7,7 +7,7 @@ Note: My initial purpose for writing this socket was to use it in a VR Marionett
 
 __Note__: Languange preference for STT conversion in the socket: English (default).
 
-##Implementations:  
+####Implementations:  
 *     [WebSocket-Sharp](https://github.com/sta/websocket-sharp):  
     A C# implementation of the WebSocket protocol client and server  
 *     [Json.Net](https://github.com/JamesNK/Newtonsoft.Json):  
