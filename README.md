@@ -7,13 +7,12 @@ Note: My initial purpose for writing this socket was to use it in a VR Marionett
 
 __Note__: Languange preference for STT conversion in the socket: English (default).
 
-##Implementations:
-
-*   [WebSocket-Sharp](https://github.com/sta/websocket-sharp):  
+##Implementations:  
+*     [WebSocket-Sharp](https://github.com/sta/websocket-sharp):  
     A C# implementation of the WebSocket protocol client and server  
-*   [Json.Net](https://github.com/JamesNK/Newtonsoft.Json):  
+*     [Json.Net](https://github.com/JamesNK/Newtonsoft.Json):  
     A widely used JSON framework for .NET by Newtonsoft, used for parsing Json responses from Bluemix  
-*   [SavWav.cs by Calvin Rien](https://forum.unity3d.com/threads/writing-audiolistener-getoutputdata-to-wav-problem.119295/#post-806734):  
+*     [SavWav.cs by Calvin Rien](https://forum.unity3d.com/threads/writing-audiolistener-getoutputdata-to-wav-problem.119295/#post-806734):  
     3rd party script for saving audioclip as .wav files
 
 ####Instructions
